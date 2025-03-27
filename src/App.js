@@ -37,7 +37,7 @@ function App() {
 
   function submitHandler(event) {
     event.preventDefault();
-    //print
+    //print 
     console.log("Finally printing the entireform ka data ........")
     console.log(formData)
   }
